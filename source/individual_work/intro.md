@@ -1,37 +1,33 @@
-# Uvod
+# Introducción
 
-Dragi učenici,
+Queridos estudiantes,
 
-kao domaću zadaću izrađivali ste mentalnu mapu ključnih pojmova.
+como tarea para casa, elaboraron un mapa mental de conceptos clave.
 
-Pogledajmo zajedno izrađene mentalne mape!
+¡Veamos juntos los mapas mentales elaborados!
 
-Danas ćete raditi na zadacima u kojima primjenjujete znanje o računalnim
-komponentama.
+Hoy trabajarán en tareas en las que aplican el conocimiento sobre componentes informáticos.
 
-Prvo ćete samostalno analizirati nekoliko konfiguracija računala, a
-zatim u grupama osmisliti konfiguraciju prijenosnog računala za određenu
-namjenu.
+Primero analizarán individualmente varias configuraciones de ordenadores, y luego en grupos diseñarán la configuración de un ordenador portátil para un propósito específico.
 
-Važno je da pratite upute, surađujete u timu i obrazložite svoje odluke.
+Es importante que sigan las instrucciones, colaboren en el equipo y justifiquen sus decisiones.
 
-Vaš rad ocjenjuje se kroz samostalni zadatak (10 bodova) i grupni
-zadatak (10 bodova).
+Su trabajo se evalúa a través de la tarea individual (10 puntos) y la tarea en grupo (10 puntos).
 
-| Ocjena           | bodovi |
-|------------------|--------|
-| Odličan (5)      | 18-20  |
-| Vrlo dobar (4)   | 15-17  |
-| Dobar (3)        | 12-14  |
-| Dovoljan (2)     | 10-12  |
-| Nedovoljan (1)   | 0-9    |
+| Calificación    | puntos |
+|-----------------|--------|
+| Excelente (5)   | 18-20  |
+| Muy bueno (4)   | 15-17  |
+| Bueno (3)       | 12-14  |
+| Suficiente (2)  | 10-12  |
+| Insuficiente (1)| 0-9    |
 
 
-U idućoj aktivnosti samostalno rješavaš zadatke na računalu.
+En la siguiente actividad, resuelves las tareas individualmente en el ordenador.
 
-Tvoj je zadatak analizirati četiri različite konfiguracije računala i, uz pomoć mentalne mape tvoje grupe, odgovoriti na pitanja. Pazi, može biti jedan ili više točnih odgovora.
+Tu tarea es analizar cuatro configuraciones diferentes de ordenadores y, con la ayuda del mapa mental de tu grupo, responder a las preguntas. Ten cuidado, puede haber una o más respuestas correctas.
 
-Predviđeno vrijeme: **15 min**    
+Tiempo previsto: **15 min**
 
-Nakon predaje dobit ćeš automatsku povratnu informaciju o uspješnosti te ćemo zajedno prokomentirati odgovore.
+Después de la entrega, recibirás retroalimentación automática sobre el éxito y comentaremos juntos las respuestas.
 

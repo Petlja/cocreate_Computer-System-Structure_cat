@@ -1,8 +1,7 @@
-# Prezentacije i rasprava
+# Presentaciones y discusión
 
-## (20 minuta)
+## (20 minutos)
 
-Vrijeme je da predstavite svoja rješenja!
+¡Es hora de presentar sus soluciones!
 
-Pažljivo prati prezentacije drugih grupa da možeš sudjelovati u
-raspravi.
+Siga atentamente las presentaciones de otros grupos para poder participar en la discusión.
