@@ -1,23 +1,22 @@
 
-# Prezentacije i rasprava  
+# Presentaciones y discusión
 
-Vrijeme je da predstavite svoja rješenja!  
+¡Es hora de presentar sus soluciones!
 
-Pažljivo prati prezentacije drugih grupa da možeš sudjelovati u raspravi.  
+Siga atentamente las presentaciones de otros grupos para poder participar en la discusión.
 
-## Vrednovanje
+## Evaluación
 
-Vaš se rad ocjenjuje na temelju dva elementa:
+Su trabajo se evalúa en base a dos elementos:
 
-**Samostalni zadatak** -- točnost i razumijevanje odgovora u testu.
+**Tarea individual** -- precisión y comprensión de las respuestas en el test.
 
-**Grupni rad** -- doprinos radu tima, obrazlaganje izbora i sudjelovanje u
-raspravi.
+**Trabajo en grupo** -- contribución al trabajo del equipo, justificación de las elecciones y participación en la discusión.
 
-| Ocjena           | bodovi |
-|------------------|--------|
-| Odličan (5)      | 18-20  |
-| Vrlo dobar (4)   | 15-17  |
-| Dobar (3)        | 12-14  |
-| Dovoljan (2)     | 10-12  |
-| Nedovoljan (1)   | 0-9    |
+| Calificación    | puntos |
+|-----------------|--------|
+| Excelente (5)   | 18-20  |
+| Muy bueno (4)   | 15-17  |
+| Bueno (3)       | 12-14  |
+| Suficiente (2)  | 10-12  |
+| Insuficiente (1)| 0-9    |
