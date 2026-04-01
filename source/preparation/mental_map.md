@@ -1,22 +1,22 @@
 # Mapa mental
 
-**Instrucciones para elaborar la mapa mental**
+**Instruccions per elaborar el mapa mental**
 
-1.  Divídanse en grupos de 3 a 4 miembros según su propia elección.
+1.  Dividiu-vos en grups de 3 a 4 membres segons la vostra propia eleccio.
 
-2.  Abran [Miro](https://www.miro.com) y juntos comiencen a elaborar la mapa mental:
+2.  Obriu [Miro](https://www.miro.com) i junts comenceu a elaborar el mapa mental:
 
-    a.  Todos los miembros del grupo se registran en la plataforma Miro usando el correo escolar.
+    a.  Tots els membres del grup es registren a la plataforma Miro fent servir el correu escolar.
 
-    b.  Un miembro del grupo crea el mapa e invita a los demás miembros del grupo para que todos puedan editar el mapa.
+    b.  Un membre del grup crea el mapa i convida la resta de membres del grup perque tothom pugui editar el mapa.
 
-3.  Miren la plantilla de mapa mental publicada en Petlja y, basándose en las lecciones previamente procesadas, elaboren su mapa grupal. En el mapa deben estar representados todos los dispositivos mencionados y sus divisiones, siendo importante aplicar el conocimiento que han adquirido anteriormente.
+3.  Mireu la plantilla de mapa mental publicada a Petlja i, basant-vos en les lliçons treballades previament, elaboreu el vostre mapa de grup. Al mapa han d'estar representats tots els dispositius esmentats i les seves divisions, i es important aplicar el coneixement que heu adquirit anteriorment.
 
-4.  Opcionalmente, agreguen notas cortas (por ejemplo, qué hace cada componente y cuáles son sus características importantes) e imágenes o íconos.
+4.  Opcionalment, afegiu notes curtes (per exemple, que fa cada component i quines son les seves caracteristiques importants) i imatges o icones.
 
-5.  Si necesitas apoyo adicional en el aprendizaje, puedes adaptar la apariencia del mapa: usar fuente más grande, colores claros o insertar íconos y marcas visuales.
+5.  Si necessites suport addicional en l'aprenentatge, pots adaptar l'aparenca del mapa: fer servir una font mes gran, colors clars o inserir icones i marques visuals.
 
-6.  Cuando terminen, exporten el mapa en forma de imagen y entréguenlo a través de Petlja en la siguiente actividad.
+6.  Quan acabeu, exporteu el mapa en forma d'imatge i lliureu-lo a traves de Petlja a la seguent activitat.
 
 ```{raw} html
 <div style="text-align: center">
