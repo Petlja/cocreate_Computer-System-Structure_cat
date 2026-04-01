@@ -1,40 +1,40 @@
 ﻿---
 status: exclude
 alias: cocreate_Computer-System-Structure_es
-lang: en
-short_description: Estructura del ordenador – partes del ordenador y software
+lang: ca
+short_description: Estructura de l'ordinador - parts de l'ordinador i programari
 long_description: >
-    <p>En esta lección aprenderás a reconocer y comprender las partes básicas del ordenador. A través de tareas prácticas elaborarás mapas mentales, analizarás diferentes configuraciones de ordenadores y en equipo seleccionarás el modelo óptimo de ordenador portátil para necesidades específicas. Desarrollarás habilidades de colaboración en equipo, argumentación de elecciones y elaboración de presentaciones de manera interesante y creativa.</p>
+    <p>En aquesta lliço aprendras a reconeixer i comprendre les parts basiques de l'ordinador. A traves de tasques practiques elaboraras mapes mentals, analitzaras diferents configuracions d'ordinadors i en equip seleccionaras el model optim d'ordinador portatil per a necessitats especifiques. Desenvoluparas habilitats de col-laboracio en equip, argumentacio d'eleccions i elaboracio de presentacions de manera interessant i creativa.</p>
     <p>
     <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.sr_LATN">
     <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
-    <br>This course was published by Petlja Foundation under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.sr_LATN">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>.
+    <br>Aquest curs ha estat publicat per la Fundacio Petlja sota la <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.sr_LATN">Llicencia Creative Commons Reconeixement 4.0 Internacional (CC BY 4.0)</a>.
     </p>
 will_learn:
-    - Reconocimiento de las partes básicas del ordenador y sus funciones.
-    - Diferenciación de tipos de software.
-    - Análisis y comparación de configuraciones de ordenadores.
-    - Justificación de la elección de un ordenador para necesidades personales.
-    - Participación en la resolución de problemas en equipo.
+    - Reconeixement de les parts basiques de l'ordinador i les seves funcions.
+    - Diferenciacio de tipus de programari.
+    - Analisi i comparacio de configuracions d'ordinadors.
+    - Justificacio de l'eleccio d'un ordinador per a necessitats personals.
+    - Participacio en la resolucio de problemes en equip.
 
 needed: 
-    - Un ordenador personal
+    - Un ordinador personal
 useful: []
 ---
 
-# Data Analysis - Visualization
+# Estructura de l'ordinador
 
-You are about to start an introductory course ......
+Estas a punt de comencar un curs introductori sobre l'estructura de l'ordinador.
 
-Course author: Petlja Foundation
+Autor del curs: Fundacio Petlja
 
-This course is published by Petlja Foundation under the
-[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.sr_LATN).
+Aquest curs ha estat publicat per la Fundacio Petlja sota la
+[Llicencia Creative Commons Reconeixement 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.sr_LATN).
 
 
 ```{toctree}
 :maxdepth: 2
-:caption: Contents
+:caption: Continguts
 :hidden:
 
 preparation/index

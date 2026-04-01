@@ -1,5 +1,5 @@
 
-project = 'Estructura del ordenador'
+project = "Estructura de l'ordinador"
 copyright = '2025, Fondacija Petlja'
 author = 'CTK Rijeka'
 
@@ -33,7 +33,7 @@ copybutton_selector = "div:not(.no-copybutton) > div.highlight > pre"
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_title = 'PLCT Template'
+html_title = "Estructura de l'ordinador"
 
 def get_builder_from_args():
     import sys
