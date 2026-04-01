@@ -1,7 +1,7 @@
 ---
 status: exclude
 ---
-# Trabajo individual
+# Treball individual
 
 ```{toctree}
 :maxdepth: 2

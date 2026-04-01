@@ -1,33 +1,33 @@
-# Introducción
+# Introduccio
 
-Queridos estudiantes,
+Benvolguts estudiants,
 
-como tarea para casa, elaboraron un mapa mental de conceptos clave.
+com a tasca per a casa, vau elaborar un mapa mental de conceptes clau.
 
-¡Veamos juntos los mapas mentales elaborados!
+Vegem junts els mapes mentals elaborats.
 
-Hoy trabajarán en tareas en las que aplican el conocimiento sobre componentes informáticos.
+Avui treballareu en tasques en les quals apliqueu el coneixement sobre components informatics.
 
-Primero analizarán individualmente varias configuraciones de ordenadores, y luego en grupos diseñarán la configuración de un ordenador portátil para un propósito específico.
+Primer analitzareu individualment diverses configuracions d'ordinadors, i despres en grups dissenyareu la configuracio d'un ordinador portatil per a un proposit especific.
 
-Es importante que sigan las instrucciones, colaboren en el equipo y justifiquen sus decisiones.
+Es important que seguiu les instruccions, col-laboreu dins l'equip i justifiqueu les vostres decisions.
 
-Su trabajo se evalúa a través de la tarea individual (10 puntos) y la tarea en grupo (10 puntos).
+El vostre treball s'avalua mitjancant la tasca individual (10 punts) i la tasca en grup (10 punts).
 
-| Calificación    | puntos |
-|-----------------|--------|
-| Excelente (5)   | 18-20  |
-| Muy bueno (4)   | 15-17  |
-| Bueno (3)       | 12-14  |
-| Suficiente (2)  | 10-12  |
-| Insuficiente (1)| 0-9    |
+| Qualificacio       | punts |
+|--------------------|-------|
+| Excel-lent (5)     | 18-20 |
+| Molt bo (4)        | 15-17 |
+| Bo (3)             | 12-14 |
+| Suficient (2)      | 10-12 |
+| Insuficient (1)    | 0-9   |
 
 
-En la siguiente actividad, resuelves las tareas individualmente en el ordenador.
+En l'activitat seguent, resols les tasques individualment a l'ordinador.
 
-Tu tarea es analizar cuatro configuraciones diferentes de ordenadores y, con la ayuda del mapa mental de tu grupo, responder a las preguntas. Ten cuidado, puede haber una o más respuestas correctas.
+La teva tasca es analitzar quatre configuracions diferents d'ordinadors i, amb l'ajuda del mapa mental del teu grup, respondre les preguntes. Ves amb compte, hi pot haver una o mes respostes correctes.
 
-Tiempo previsto: **15 min**
+Temps previst: **15 min**
 
-Después de la entrega, recibirás retroalimentación automática sobre el éxito y comentaremos juntos las respuestas.
+Despres del lliurament, rebras retroalimentacio automatica sobre l'encert i comentarem junts les respostes.
 
