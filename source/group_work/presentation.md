@@ -1,7 +1,7 @@
-# Presentaciones y discusión
+# Presentacions i discussio
 
-## (20 minutos)
+## (20 minuts)
 
-¡Es hora de presentar sus soluciones!
+Es hora de presentar les vostres solucions.
 
-Siga atentamente las presentaciones de otros grupos para poder participar en la discusión.
+Seguiu atentament les presentacions dels altres grups per poder participar en la discussio.

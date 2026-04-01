@@ -1,7 +1,7 @@
 ---
 status: exclude
 ---
-# Trabajo en grupo
+# Treball en grup
 
 ```{toctree}
 :maxdepth: 2

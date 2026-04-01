@@ -1,29 +1,29 @@
-# Reflexión
+# Reflexio
 
-## (5 minutos)
+## (5 minuts)
 
-Al final de la clase, dedica unos minutos a reflexionar sobre tu propio trabajo y el trabajo del grupo.
+Al final de la classe, dedica uns minuts a reflexionar sobre el teu propi treball i el treball del grup.
 
-Completa el breve cuestionario de reflexión y participa en la discusión conjunta.
+Completa el breu qestionari de reflexio i participa en la discussio conjunta.
 
-## Cuestionario
+## Qestionari
 
-Evalúa cuánto respeta el grupo las reglas mencionadas en una escala del 1 al 4.
+Avalua fins a quin punt el grup respecta les regles esmentades en una escala de l'1 al 4.
 
 ```{technicalnote}
-Escala de evaluación:
+Escala d'avaluacio:
 
-1 -- No respetado en absoluto
+1 -- No respectat en absolut
 
-2 -- Mayoritariamente no respetado
+2 -- Majoritariament no respectat
 
-3 -- Mayoritariamente respetado
+3 -- Majoritariament respectat
 
-4 -- Completamente respetado
+4 -- Completament respectat
 ```
 
 ```{infonote}
-Si la calificación es inferior a 3, deben intentar mejorar esa parte del funcionamiento del grupo.
+Si la qualificacio es inferior a 3, heu d'intentar millorar aquesta part del funcionament del grup.
 ```
 
 ```{raw} html

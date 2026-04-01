@@ -1,68 +1,68 @@
-# Introducción
+# Introduccio
 
-Ahora trabajan en los mismos grupos de 3 a 4 estudiantes en los que elaboraron los mapas mentales.
+Ara treballeu en els mateixos grups de 3 a 4 estudiants en els quals vau elaborar els mapes mentals.
 
-**Cada grupo recibe un escenario determinado y un presupuesto:**
+**Cada grup rep un escenari determinat i un pressupost:**
 
-- Ordenador portátil para escuela -- hasta 700 €
+- Ordinador portatil per a escola -- fins a 700 EUR
 
-- Ordenador portátil para juegos -- hasta 3000 €
+- Ordinador portatil per a jocs -- fins a 3000 EUR
 
-- Ordenador portátil para trabajo de oficina básico -- hasta 1000 €
+- Ordinador portatil per a feina d'oficina basica -- fins a 1000 EUR
 
-- Ordenador portátil para edición de video -- hasta 2500 €
+- Ordinador portatil per a edicio de video -- fins a 2500 EUR
 
-- Ordenador portátil para programación — hasta 2500 €
+- Ordinador portatil per a programacio -- fins a 2500 EUR
 
-## Roles en el equipo
+## Rols dins l'equip
 
-- **Investigador**: encuentra la información necesaria usando el mapa mental compartido y busca fuentes relevantes en línea.
+- **Investigador**: troba la informacio necessaria fent servir el mapa mental compartit i cerca fonts rellevants en linia.
 
-- **Secretario**: registra las respuestas del grupo y verifica si están en conformidad con las especificaciones dadas.
+- **Secretari**: registra les respostes del grup i comprova si estan d'acord amb les especificacions donades.
 
-- **Técnico**: encuentra el laptop seleccionado en una tienda en línea y verifica si cumple con los requisitos dados.
+- **Tecnic**: troba el portatil seleccionat en una botiga en linia i comprova si compleix els requisits donats.
 
-- **Presentador**: prepara una breve presentación en la que muestra las especificaciones del ordenador seleccionado y explica la elección del grupo.
+- **Presentador**: prepara una breu presentacio en la qual mostra les especificacions de l'ordinador seleccionat i explica l'eleccio del grup.
 
-Si hay tres miembros en el grupo, los roles de secretario y presentador se combinan.
+Si hi ha tres membres al grup, els rols de secretari i presentador es combinen.
 
 ```{infonote}
 **Nota**
 
-Aunque a cada miembro del grupo se le asigna un rol específico, todos se ayudan mutuamente en todas las partes de la tarea. Tu responsabilidad es que la parte del trabajo que corresponde a tu rol se realice de manera de calidad y a tiempo, pero al mismo tiempo colaboras y contribuyes a la solución común del grupo.
+Encara que a cada membre del grup se li assigna un rol especific, tots s'ajuden mutuament en totes les parts de la tasca. La teva responsabilitat es que la part del treball que correspon al teu rol es faci amb qualitat i a temps, pero al mateix temps col-labores i contribueixes a la solucio comuna del grup.
 ```
 
 
 ```{suggestionnote}
-**REGLAS DE COLABORACIÓN EXITOSA**
+**REGLES DE COL-LABORACIO EXITOSA**
 
-- Todos somos iguales y nos respetamos mutuamente.
+- Tots som iguals i ens respectem mutuament.
 
-- Mantenemos un buen ambiente incluso cuando pensamos de manera diferente.
+- Mantenim un bon ambient fins i tot quan pensem de manera diferent.
 
-- Todos somos responsables del trabajo del grupo.
+- Tots som responsables del treball del grup.
 
-- Ayudamos a todos a contribuir al trabajo del grupo.
+- Ajudem tothom a contribuir al treball del grup.
 
-- Nos esforzamos por incluir a cada miembro del grupo en la toma de decisiones.
+- Ens esforcem per incloure cada membre del grup en la presa de decisions.
 
-- Consideramos diferentes ideas para elegir la mejor solución.
+- Considerem diferents idees per triar la millor solucio.
 
-- Desarrollamos ideas, discutimos sobre ellas y pensamos en soluciones.
+- Desenvolupem idees, en discutim i pensem en solucions.
 
-- Usamos inteligentemente el tiempo para completar la tarea.
+- Fem servir el temps amb inteligencia per completar la tasca.
 
-- Seguimos nuestro progreso y pensamos en el siguiente paso.
+- Seguim el nostre progres i pensem en el pas seguent.
 ```
 
-## Evaluación
+## Avaluacio
 
-La tarea se evaluará con la rúbrica:
+La tasca s'avaluara amb la rubrica:
 
-| Categoría                                | Descripción                                                                                                                                                                                                                            | Puntos |
-|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| Especificaciones técnicas                | El ordenador cumple con los requisitos dados del escenario: procesador, RAM, tipo y capacidad de memoria, tarjeta gráfica, pantalla y demás. Las especificaciones son reales y dentro del presupuesto. | 0–2    |
-| Búsqueda del modelo adecuado             | El grupo ha encontrado exitosamente un modelo específico de laptop en una tienda en línea que cumple con las especificaciones acordadas y ofrece la mejor relación calidad-precio.               | 0–2    |
-| Colaboración en el grupo                 | Todos los miembros participan activamente, respetan las reglas de colaboración exitosa, se ayudan mutuamente y ejecutan responsablemente los roles asignados.                                   | 0–2    |
-| Calidad de la presentación (diapositiva y exposición) | La diapositiva es clara e informativa, contiene toda la información requerida y elementos visuales. La exposición es clara y lo suficientemente audible y dura 3–4 minutos.                      | 0–2    |
-| Justificación de la elección y argumentación | El grupo argumenta claramente por qué eligieron esas especificaciones y ese laptop y cómo satisface las necesidades del usuario del escenario.                                                  | 0–2    |
+| Categoria                                      | Descripcio                                                                                                                                                                                                                                      | Punts |
+|------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+| Especificacions tecniques                      | L'ordinador compleix els requisits donats de l'escenari: processador, RAM, tipus i capacitat de memoria, targeta grafica, pantalla i la resta. Les especificacions son reals i dins del pressupost. | 0-2   |
+| Cerca del model adequat                        | El grup ha trobat amb exit un model especific de portatil en una botiga en linia que compleix les especificacions acordades i ofereix la millor relacio qualitat-preu.                           | 0-2   |
+| Col-laboracio dins el grup                     | Tots els membres participen activament, respecten les regles de col-laboracio exitosa, s'ajuden mutuament i executen amb responsabilitat els rols assignats.                                    | 0-2   |
+| Qualitat de la presentacio (diapositiva i exposicio) | La diapositiva es clara i informativa, conte tota la informacio requerida i elements visuals. L'exposicio es clara, prou audible i dura entre 3 i 4 minuts.                                     | 0-2   |
+| Justificacio de l'eleccio i argumentacio       | El grup argumenta clarament per que ha triat aquestes especificacions i aquest portatil i com satisfan les necessitats de l'usuari de l'escenari.                                                | 0-2   |

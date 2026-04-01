@@ -1,22 +1,22 @@
 
-# Presentaciones y discusión
+# Presentacions i discussio
 
-¡Es hora de presentar sus soluciones!
+Es hora de presentar les vostres solucions.
 
-Siga atentamente las presentaciones de otros grupos para poder participar en la discusión.
+Seguiu atentament les presentacions dels altres grups per poder participar en la discussio.
 
-## Evaluación
+## Avaluacio
 
-Su trabajo se evalúa en base a dos elementos:
+El vostre treball s'avalua en base a dos elements:
 
-**Tarea individual** -- precisión y comprensión de las respuestas en el test.
+**Tasca individual** -- precisio i comprensio de les respostes al test.
 
-**Trabajo en grupo** -- contribución al trabajo del equipo, justificación de las elecciones y participación en la discusión.
+**Treball en grup** -- contribucio al treball de l'equip, justificacio de les eleccions i participacio en la discussio.
 
-| Calificación    | puntos |
-|-----------------|--------|
-| Excelente (5)   | 18-20  |
-| Muy bueno (4)   | 15-17  |
-| Bueno (3)       | 12-14  |
-| Suficiente (2)  | 10-12  |
-| Insuficiente (1)| 0-9    |
+| Qualificacio       | punts |
+|--------------------|-------|
+| Excel-lent (5)     | 18-20 |
+| Molt bo (4)        | 15-17 |
+| Bo (3)             | 12-14 |
+| Suficient (2)      | 10-12 |
+| Insuficient (1)    | 0-9   |

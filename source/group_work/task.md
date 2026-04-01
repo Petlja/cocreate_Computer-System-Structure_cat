@@ -1,41 +1,41 @@
-# Tarea
+# Tasca
 
-## (30 minutos)
+## (30 minuts)
 
-Ahora que están asignados en grupos, comiencen a trabajar en encontrar el ordenador portátil que mejor se adapte a su escenario. Para el trabajo en grupo tienen un total de 30 minutos. De estos, 20 minutos están previstos para investigación y acuerdo en el equipo, y los restantes 10 minutos para ingresar datos en Google Slides y preparar la presentación.
+Ara que esteu assignats en grups, comenceu a treballar per trobar l'ordinador portatil que millor s'adapti al vostre escenari. Per al treball en grup disposeu d'un total de 30 minuts. D'aquests, 20 minuts estan previstos per a la investigacio i l'acord dins l'equip, i els 10 minuts restants per introduir dades a Google Slides i preparar la presentacio.
 
-**Diseñen la configuración del ordenador portátil para el escenario asignado y respondan a las siguientes preguntas:**
+**Dissenyeu la configuracio de l'ordinador portatil per a l'escenari assignat i responeu les preguntes seguents:**
 
-- ¿Qué tipo de procesador necesitan -- cuántos núcleos y qué frecuencia aproximada del procesador?
+- Quin tipus de processador necessiteu -- quants nuclis i quina frequencia aproximada del processador?
 
-- ¿Qué capacidad de memoria RAM es suficiente para su propósito?
+- Quina capacitat de memoria RAM es suficient per al vostre proposit?
 
-- ¿Qué tipo y capacidad de almacenamiento masivo necesitan?
+- Quin tipus i quina capacitat d'emmagatzematge massiu necessiteu?
 
-- ¿Qué más debe tener el ordenador teniendo en cuenta su propósito (por ejemplo, tarjeta gráfica, puertos, sistema operativo, tamaño y calidad de la pantalla...)?
+- Que mes ha de tenir l'ordinador tenint en compte el seu proposit (per exemple, targeta grafica, ports, sistema operatiu, mida i qualitat de la pantalla...)?
 
-- Basándose en las especificaciones acordadas, en una tienda en línea encuentren un modelo de ordenador portátil que mejor se adapte a sus requisitos. Intenten obtener la mejor relación calidad-precio con el dinero disponible.
+- Basant-vos en les especificacions acordades, en una botiga en linia trobeu un model d'ordinador portatil que s'adapti millor als vostres requisits. Intenteu obtenir la millor relacio qualitat-preu amb els diners disponibles.
 
-- Basándose en las especificaciones acordadas, preparen una diapositiva en el documento compartido de Google Slides. La diapositiva debe contener:
+- Basant-vos en les especificacions acordades, prepareu una diapositiva al document compartit de Google Slides. La diapositiva ha de contenir:
 
-    - Nombre del grupo, propósito del ordenador portátil y presupuesto
+    - Nom del grup, proposit de l'ordinador portatil i pressupost
 
-    - Especificaciones técnicas (procesador, RAM, almacenamiento masivo, OS y demás)
+    - Especificacions tecniques (processador, RAM, emmagatzematge massiu, SO i la resta)
 
-    - Imagen del laptop seleccionado y enlace a la tienda
+    - Imatge del portatil seleccionat i enllac a la botiga
 
-- Preparen una breve exposición (3--4 minutos) en la que expliquen:
+- Prepareu una breu exposicio (3--4 minuts) en la qual expliqueu:
 
-    - ¿Por qué eligieron esas especificaciones?
+    - Per que heu triat aquestes especificacions?
 
-    - ¿Por qué precisamente ese ordenador portátil?
+    - Per que precisament aquest ordinador portatil?
 
-    - ¿Cómo se adapta a las necesidades del usuario del escenario?
+    - Com s'adapta a les necessitats de l'usuari de l'escenari?
 
-## Google Slides Compartido
+## Google Slides Compartit
 
 ```{questionnote}
-**¿Es cómodo llenar la diapositiva en el iFrame?**
+**Us resulta comode omplir la diapositiva a l'iFrame?**
 ```
 
 ```{raw} html
