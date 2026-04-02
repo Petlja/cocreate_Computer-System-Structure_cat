@@ -1,7 +1,7 @@
 ﻿---
 status: exclude
-alias: cocreate_Computer-System-Structure_es
-lang: ca
+alias: cocreate_Computer-System-Structure_cat
+lang: en
 short_description: Estructura de l'ordinador - parts de l'ordinador i programari
 long_description: >
     <p>En aquesta lliço aprendras a reconeixer i comprendre les parts basiques de l'ordinador. A traves de tasques practiques elaboraras mapes mentals, analitzaras diferents configuracions d'ordinadors i en equip seleccionaras el model optim d'ordinador portatil per a necessitats especifiques. Desenvoluparas habilitats de col-laboracio en equip, argumentacio d'eleccions i elaboracio de presentacions de manera interessant i creativa.</p>
