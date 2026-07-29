@@ -1,21 +1,21 @@
-﻿---
+---
 status: exclude
-alias: cocreate_Computer-System-Structure_es
-lang: ca
-short_description: Estructura de l'ordinador - parts de l'ordinador i programari
+alias: cocreate_Computer-System-Structure_cat
+lang: en
+short_description: Estructura de l'ordinador – parts de l'ordinador i programari
 long_description: >
-    <p>En aquesta lliço aprendras a reconeixer i comprendre les parts basiques de l'ordinador. A traves de tasques practiques elaboraras mapes mentals, analitzaras diferents configuracions d'ordinadors i en equip seleccionaras el model optim d'ordinador portatil per a necessitats especifiques. Desenvoluparas habilitats de col-laboracio en equip, argumentacio d'eleccions i elaboracio de presentacions de manera interessant i creativa.</p>
+    <p>En aquesta lliçó aprendràs a reconèixer i comprendre les parts bàsiques d'un ordinador. A través de tasques pràctiques crearàs mapes mentals, analitzaràs diferents configuracions de l'ordinador i en equip triaràs el model d'ordinador portàtil òptim per a necessitats específiques. Desenvoluparàs habilitats de col·laboració en equip, argumentació de la tria i elaboració de presentacions de manera interessant i creativa.</p>
     <p>
-    <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.sr_LATN">
+    <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.ca">
     <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
-    <br>Aquest curs ha estat publicat per la Fundacio Petlja sota la <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.sr_LATN">Llicencia Creative Commons Reconeixement 4.0 Internacional (CC BY 4.0)</a>.
+    <br>Aquest curs ha estat publicat per la Fundació Petlja sota la <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.ca">Llicència Creative Commons Atribució 4.0 Internacional (CC BY 4.0)</a>.
     </p>
 will_learn:
-    - Reconeixement de les parts basiques de l'ordinador i les seves funcions.
-    - Diferenciacio de tipus de programari.
-    - Analisi i comparacio de configuracions d'ordinadors.
-    - Justificacio de l'eleccio d'un ordinador per a necessitats personals.
-    - Participacio en la resolucio de problemes en equip.
+    - Reconèixer les parts bàsiques de l'ordinador i les seves funcions.
+    - Diferenciar tipus de programari.
+    - Analitzar i comparar la configuració de l'ordinador.
+    - Justificar l'elecció d'ordinador per a necessitats personals.
+    - Participar en la resolució de problemes en equip.
 
 needed: 
     - Un ordinador personal
@@ -24,19 +24,21 @@ useful: []
 
 # Estructura de l'ordinador
 
-Estas a punt de comencar un curs introductori sobre l'estructura de l'ordinador.
+Estàs a punt de començar un curs introductori...
 
-Autor del curs: Fundacio Petlja
+Autor del curs: Fundació Petlja
 
-Aquest curs ha estat publicat per la Fundacio Petlja sota la
-[Llicencia Creative Commons Reconeixement 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.sr_LATN).
+Aquest curs ha estat publicat per la Fundació Petlja sota la
+[Llicència Creative Commons Atribució 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.ca).
 
 
 ```{toctree}
 :maxdepth: 2
-:caption: Continguts
+:caption: Contingut
 :hidden:
 
 preparation/index
 individual_work/index
 group_work/index
+Appendix/index
+```
