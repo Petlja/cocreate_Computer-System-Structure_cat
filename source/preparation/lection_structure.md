@@ -2,7 +2,7 @@
 
 **Aquesta lliçó té tres components:**
 
-![Imatge de la lliçó](images/Slika_1_CRO.png)
+![Imatge de la lliçó](images/Slika_1_CAT.png)
 
 Al final de la sessió de classe s'avaluarà cada part del vostre treball:
 
