@@ -1,33 +1,37 @@
-# Reflexio
+# Reflexió
 
-## (5 minuts)
 
-Al final de la classe, dedica uns minuts a reflexionar sobre el teu propi treball i el treball del grup.
+Ara que has acabat tot, dedica alguns minuts a reflexionar sobre el teu propi treball i el del teu equip. No cal que emplenis res — llegeix les afirmacions següents i per a cadascuna pensa honestament quant s'aplica al teu equip. On heu estat forts? On hi ha espai per millorar?
 
-Completa el breu qestionari de reflexio i participa en la discussio conjunta.
+1.	Durant el treball en equip tothom va ser igual i ens vam respectar els uns als altres.
+2.	Vam mantenir una bona atmosfera fins i tot quan teníem opinions diferents.
+3.	Tothom era responsable del treball del grup.
+4.	Vam ajudar els uns als altres perquè tothom contribuís al treball del grup.
+5.	Vam intentar incloure cada membre de l'equip en la presa de decisions.
+6.	Vam considerar idees diferents per triar la millor solució.
+7.	Vam desenvolupar idees, en vam discutir i vam trobar solucions.
+8.	Vam utilitzar el temps intel·ligentment per completar la tasca amb èxit.
+9.	Vam seguir el nostre progrés i vam pensar en els passos següents.
 
-## Qestionari
+Si creus que alguna d'aquestes frases no era prou present en el teu equip, pensa en què podries fer tu diferent en el proper treball en equip.
 
-Avalua fins a quin punt el grup respecta les regles esmentades en una escala de l'1 al 4.
 
-```{technicalnote}
-Escala d'avaluacio:
+```{learnmorenote} Reflexió sobre el treball en equip — instruccions per als professors:
 
-1 -- No respectat en absolut
+A continuació hi ha preguntes de reflexió sobre el treball en equip. Recomanem que les integreu en algun dels qüestionaris en línia (per exemple, Google Forms, Microsoft Forms o l'eina que utilitzeu a la vostra plataforma), les compartiu amb els estudiants i després que els estudiants completi el qüestionari, discutiu conjuntament les preguntes i els resultats.
 
-2 -- Majoritariament no respectat
+#### Qüestionari sobre treball en grup
+    
+Instruccions per als estudiants: Avalueu quant ha respectat el grup durant el treball en equip els principis de treball en equip indicats en una escala de l'1 al 4.
 
-3 -- Majoritariament respectat
+Escala de qualificació:
+1. No s'aplica gens al meu equip
+2. No s'aplica al meu equip
+3. S'aplica al meu equip
+4. S'aplica completament al meu equip
 
-4 -- Completament respectat
-```
+Pregunta introductòria: A quin equip pertanys? (Equip 1 / Equip 2 / Equip 3 / Equip 4)
 
-```{infonote}
-Si la qualificacio es inferior a 3, heu d'intentar millorar aquesta part del funcionament del grup.
-```
-
-```{raw} html
-<div style="text-align: center">
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeESkVJv1r2bEmDuf-WesD3TOX_tkH_V6CcWzc1a3SHIhcmEA/viewform?usp=header" width="100%" height="600px" frameborder="0" allow="fullscreen; allowfullscreen></iframe>
-</div>
+Affirmacions per a l'avaluació:
+1. Durant el treball en equip tothom era igual i ens vam respectar els uns als altres.
 ```
