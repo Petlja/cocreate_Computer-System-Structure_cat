@@ -20,6 +20,3 @@ Aquests conceptes s'han tractat gradualment en sessions anteriors i ara
 per a la tasca de casa has d'organitzar-los en un mapa mental. El mapa
 mental te servirà com a suport en la pròxima sessió per a tasques
 autònomes i de grup.
-
-Si alguns d'aquests conceptes encara no els coneixen completament, us
-recomanem que mireu el següent vídeo: [Parts bàsiques de l'ordinador](https://www.youtube.com/watch?v=tbNRCC9loMs)
