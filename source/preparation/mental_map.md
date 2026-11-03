@@ -24,8 +24,7 @@
     izgled mape: koristiti veći font, jasne boje ili umetnuti ikone i
     vizualne oznake.
 
-6.  Kada završite, izvezite mapu u obliku slike i predajte je putem
-    Petlje u sljedećoj aktivnosti.
+6.  Kada završite, izvezite mapu u obliku slike i predajte je nastavniku.
 
 ```{raw} html
 <div style="text-align: center">
