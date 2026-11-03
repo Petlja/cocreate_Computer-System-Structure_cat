@@ -2,7 +2,7 @@
 
 ```{learnmorenote} Uputa za nastavnika: 
 
-Prije pokretanja lekcije, potrebno je izmijeniti niže navedene bulete navodeći naziv ili broj grupe te ostavljajući dovoljan broj scenarija.
+Prije početka lekcije, potrebno je odrediti kojoj grupi ćete dodijeliti određeni scenarij te jasno komunicirati s učenicima koje scenarije će koristiti u grupnom radu. 
 ```
 
 Sada radite u istim grupama od 3 do 4 učenika u kojima ste izrađivali
