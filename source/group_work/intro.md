@@ -2,7 +2,7 @@
 
 ```{learnmorenote} Uputa za nastavnika: 
 
-Prije početka lekcije, potrebno je odrediti kojoj grupi ćete dodijeliti određeni scenarij te jasno komunicirati s učenicima koje scenarije će koristiti u grupnom radu. 
+Prije početka lekcije odredite koji će scenarij dobiti koja skupina i jasno to objasnite učenicima. 
 ```
 
 Sada radite u istim grupama od 3 do 4 učenika u kojima ste izrađivali
