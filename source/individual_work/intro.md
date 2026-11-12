@@ -22,6 +22,7 @@ El vostre treball s'avalua mitjancant la tasca individual (10 punts) i la tasca 
 | Suficient (2)      | 10-12 |
 | Insuficient (1)    | 0-9   |
 
+U svrhu ponavljanja znanja o dijelovima računala u timovima ste izradili mentalnu mapu. Danas nastavljaš s zadatcima kroz koje ćeš primijeniti znanje o računalnim komponentama, a pri tome će ti pomoći mentalna mapa tvog tima.
 
 En l'activitat seguent, resols les tasques individualment a l'ordinador.
 
