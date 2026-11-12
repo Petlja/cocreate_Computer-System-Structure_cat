@@ -54,6 +54,8 @@ Encara que a cada membre del grup se li assigna un rol especific, tots s'ajuden 
 
 - Seguim el nostre progres i pensem en el pas seguent.
 ```
+```{suggestionnote}
+**REGLES DE COL·LABORACIÓ REEIXIDA**
 
 ## Avaluacio
 
