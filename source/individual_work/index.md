@@ -1,7 +1,7 @@
 ---
 status: exclude
 ---
-# Samostalni rad
+# Treball individual
 
 ```{toctree}
 :maxdepth: 2

@@ -1,18 +1,34 @@
-# Uvod
+# Introduccio
 
-```{learnmorenote} Uputa za nastavnike:
+Benvolguts estudiants,
 
-  Učenici su predali mentalne mape u sklopu domaće zadaće, a na kojima su radili koristeći se CSCL pristupom. Prije nastavka aktivnosti, potrebno je pregledati dostavljene mentalne mape te ih po potrebi ocijeniti. Kako bi osigurali da svi učenici imaju kvalitetne mentalne mape s kojima ulaze u sljedeći zadatak, predlažemo da kao uvod u sljedeću aktivnost zajedno pregledate dostavljene mape.
-```
+com a tasca per a casa, vau elaborar un mapa mental de conceptes clau.
 
+Vegem junts els mapes mentals elaborats.
+
+Avui treballareu en tasques en les quals apliqueu el coneixement sobre components informatics.
+
+Primer analitzareu individualment diverses configuracions d'ordinadors, i despres en grups dissenyareu la configuracio d'un ordinador portatil per a un proposit especific.
+
+Es important que seguiu les instruccions, col-laboreu dins l'equip i justifiqueu les vostres decisions.
+
+El vostre treball s'avalua mitjancant la tasca individual (10 punts) i la tasca en grup (10 punts).
+
+| Qualificacio       | punts |
+|--------------------|-------|
+| Excel-lent (5)     | 18-20 |
+| Molt bo (4)        | 15-17 |
+| Bo (3)             | 12-14 |
+| Suficient (2)      | 10-12 |
+| Insuficient (1)    | 0-9   |
 
 U svrhu ponavljanja znanja o dijelovima računala u timovima ste izradili mentalnu mapu. Danas nastavljaš s zadatcima kroz koje ćeš primijeniti znanje o računalnim komponentama, a pri tome će ti pomoći mentalna mapa tvog tima.
 
-U idućoj aktivnosti samostalno rješavaš zadatke na računalu.
+En l'activitat seguent, resols les tasques individualment a l'ordinador.
 
-Tvoj je zadatak analizirati četiri različite konfiguracije računala i, uz pomoć mentalne mape tvoje grupe, odgovoriti na pitanja. Pazi, može biti jedan ili više točnih odgovora.
+La teva tasca es analitzar quatre configuracions diferents d'ordinadors i, amb l'ajuda del mapa mental del teu grup, respondre les preguntes. Ves amb compte, hi pot haver una o mes respostes correctes.
 
-Predviđeno vrijeme: **15 min**    
+Temps previst: **15 min**
 
-Nakon predaje dobit ćeš automatsku povratnu informaciju o uspješnosti te ćemo zajedno prokomentirati odgovore.
+Despres del lliurament, rebras retroalimentacio automatica sobre l'encert i comentarem junts les respostes.
 

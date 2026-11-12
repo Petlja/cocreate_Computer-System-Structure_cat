@@ -1,35 +1,27 @@
-# Mentalna mapa
+# Mapa mental
 
-**Upute za izradu mentalne mape**
+**Instruccions per elaborar el mapa mental**
 
-1.  Podijelite se u grupe od 3 do 4 člana prema vlastitom izboru.
+1.  Dividiu-vos en grups de 3 a 4 membres segons la vostra propia eleccio.
 
-2.  Otvorite [Miro](https://www.miro.com) i zajedno započnite izradu mentalne mape:
+2.  Obriu [Miro](https://www.miro.com) i junts comenceu a elaborar el mapa mental:
 
-    a.  Svi članovi grupe se registriraju na Miro platformu koristeći
-        školski mail.
+    a.  Tots els membres del grup es registren a la plataforma Miro fent servir el correu escolar.
 
-    b.  Jedan član grupe stvara mapu, kopira je na novu mapu povezanu sa svojim računom i poziva ostale članove grupe kako
-        bi svi mogli uređivati mapu.
+    b.  Un membre del grup crea el mapa i convida la resta de membres del grup perque tothom pugui editar el mapa.
 
-3.  Pogledajte predložak mentalne mape objavljen na Petlji i, na temelju
-    prethodno obrađenih lekcija, izradite svoju grupnu mapu. Na mapi
-    trebaju biti prikazani svi spomenuti uređaji i njihove podjele, pri
-    čemu je važno primijeniti znanje koje ste ranije usvojili.
+3.  Mireu la plantilla de mapa mental publicada a Petlja i, basant-vos en les lliçons treballades previament, elaboreu el vostre mapa de grup. Al mapa han d'estar representats tots els dispositius esmentats i les seves divisions, i es important aplicar el coneixement que heu adquirit anteriorment.
 
-4.  Po želji dodajte kratke bilješke (npr. što koja komponenta radi i
-    koje su joj bitne karakteristike) i slike ili ikone.
+4.  Opcionalment, afegiu notes curtes (per exemple, que fa cada component i quines son les seves caracteristiques importants) i imatges o icones.
 
-5.  Ako ti je u učenju potrebna dodatna podrška, možeš prilagoditi
-    izgled mape: koristiti veći font, jasne boje ili umetnuti ikone i
-    vizualne oznake.
+5.  Si necessites suport addicional en l'aprenentatge, pots adaptar l'aparenca del mapa: fer servir una font mes gran, colors clars o inserir icones i marques visuals.
 
-6.  Kada završite, izvezite mapu u obliku slike i predajte je nastavniku.
+6.  Quan acabeu, exporteu el mapa en forma d'imatge i lliureu-lo a traves de Petlja a la seguent activitat.
 
 ```{raw} html
 <div style="text-align: center">
     <iframe width="768" height="432"
-    src="https://miro.com/app/board/uXjVH8lHg_4=/?share_link_id=699924176574"
+    src="https://miro.com/app/board/uXjVESmBuIs=/?share_link_id=635757153472"
     frameborder="0" scrolling="no" allow="fullscreen; clipboard-read;
     clipboard-write" allowfullscreen>
     </iframe>
