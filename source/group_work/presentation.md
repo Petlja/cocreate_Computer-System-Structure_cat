@@ -22,7 +22,6 @@ Dissenyeu una configuració d'ordinador portàtil per a l'escenari assignat i re
     -	Per què aquest ordinador portàtil en concret?
     -	Com compleix les necessitats de l'usuari en l'escenari?
 
-
     ```{raw} html
     <div style="text-align: center">
         <iframe width="768" height="432"
